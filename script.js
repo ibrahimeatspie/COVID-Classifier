@@ -1,7 +1,7 @@
 console.log("model is slolasda");
 console.log("model is slolasda");
 
-/**async function loadModel(){
+async function loadModel(){
   
   
 
@@ -16,5 +16,5 @@ console.log("model is slolasda");
 
 
 }
-loadModel();**/
+loadModel();
 
