@@ -7,7 +7,7 @@ async function loadModel(){
 
 
   model = undefined;
-  model = await tf.loadLayersModel("https://github.com/ArjSan1/covid-classifier/blob/main/models/model.json");
+  model = await tf.loadLayersModel("https://github.com/ibrahimeatspie/COVID-Classifier/blob/main/model.json");
 
   console.log("Model is loaded");
 
