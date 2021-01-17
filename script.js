@@ -1,5 +1,9 @@
 console.log("model is slolasda");
+console.log("model is slolasda");
+
 async function loadModel(){
+  
+  
 
 
   model = undefined;
